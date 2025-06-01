@@ -5,14 +5,14 @@ Baremetal Programming, I/O, Interrupt
 ## Information
 
 - Course: system programming (Mon, 3rd & 4th)
-- Classroom: TBD
+- Classroom: Faculty of Science Chemistry Bldg. Room#236
 - Main Instructor: Takahiro Shinagawa
 - Teaching Assistant: Kokusyunn Go, Kaisei Kikuchi, Keisuke Iida
 
 ## Assignment
 
-- Slide: [here]()(ECCS email required) 
-- Date due: ***2025/06/16*** (tentative: check [here](https://github.com/ut-syspro-admin-25/assignment-7) for the latest deadline.)
+- Slide: [here](https://drive.google.com/drive/folders/1xoDMwppyna0dQaNWYj1F087QfhcSxTKQ?usp=sharing)(ECCS email required) 
+- Date due: ***2025/06/16 23:59*** (tentative: check [here](https://github.com/ut-syspro-admin-25/assignment-7) for the latest deadline.)
 
 ## How to Build
 
